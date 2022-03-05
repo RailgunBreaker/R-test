@@ -1,0 +1,14 @@
+---
+title: "Test Doc"
+author: "Alan"
+date: '2022-03-05'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+I'm a new R learner, using Git to control version.
